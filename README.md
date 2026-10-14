@@ -152,3 +152,7 @@ O projeto pode ser executado tanto em um ambiente virtual(Tinkercad circuits) qu
 ## Aluno 
 Nome: Vinicius Eduardo Campos de Carvalho
 Curso: Ciência da Computação - PUC Minas
+
+<img width="995" height="481" alt="circuitoLogico" src="https://github.com/user-attachments/assets/7967b4b9-633a-4350-ad5a-03df67a25140" />
+<img width="920" height="517" alt="circuitoLogicoFuncionamento" src="https://github.com/user-attachments/assets/e9b80ee0-003d-482e-9747-226892ee1141" />
+<img width="825" height="519" alt="componentes" src="https://github.com/user-attachments/assets/eff0e045-62da-42e3-a6b9-63eeaf760cbc" />
