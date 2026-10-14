@@ -32,7 +32,7 @@ O projeto consiste em um protótipo de monitoramento automatizado para aquários
 
 ---
 
-## 💻 Código-Fonte (`sketch.ino`)
+##  Código-Fonte 
 
 O código utilizado no Arduino realiza leituras analógicas periódicas, converte os valores para unidades reais (como graus Celsius e percentuais) e alterna dinamicamente as informações no display LCD, além de acionar os LEDs de alerta:
 
